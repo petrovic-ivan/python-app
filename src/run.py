@@ -1,1 +1,4 @@
-print("Test 3")
+import random
+
+health = random.randint(1, 10)
+print(health)
